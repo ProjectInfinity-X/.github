@@ -22,5 +22,5 @@ Here are some points to note while applying the official maintainership :-
 
 ### Reach US
 
-- [Telegram Announcements/Device Updates](https://https://t.me/ProjectInfinityX)
-- [Telegram Discussion Group](https://https://t.me/InfinityXGroup)
+- [Telegram Announcements/Device Updates](https://t.me/ProjectInfinityX)
+- [Telegram Discussion Group](https://t.me/InfinityXGroup)
