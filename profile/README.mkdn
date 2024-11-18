@@ -6,7 +6,7 @@ Unleashing Boundless Possibilities!
 
 The Infinity-X Project introduces you to a world of endless customizations and useful Android features.
 
-Project Infinity-X is based on [Android Open Source Project](https://android.googlesource.com/) and currently running on Android 14 (Upside Down Cake).
+Project Infinity-X is based on [Android Open Source Project](https://android.googlesource.com/) and currently running on Android 15 (Vanilla Ice Cream).
 
 - [Manifest](https://github.com/projectinfinity-X/manifest)
 
