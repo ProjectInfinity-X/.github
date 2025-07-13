@@ -6,7 +6,7 @@ Unleashing Boundless Possibilities!
 
 The Infinity-X Project introduces you to a world of endless customizations and useful Android features.
 
-Project Infinity-X is based on [Android Open Source Project](https://android.googlesource.com/) and currently running on Android 15 (Vanilla Ice Cream).
+Project Infinity-X is currently running on Android 16 (Baklava). For more information visit our website - [projectinfinity-x.com](https://projectinfinity-x.com/).
 
 - [Manifest](https://github.com/projectinfinity-X/manifest)
 
@@ -14,15 +14,7 @@ Project Infinity-X is based on [Android Open Source Project](https://android.goo
 
 Bring your device to OFFICIAL maintenance:
 
-- [Apply Here](https://github.com/ProjectInfinity-X/official_devices/issues/new/choose)
-
-Here are some points to note while applying the official maintainership :-
-
-- Your device sources must be public, exceptions could be followed but the team eye must to be kept. However kernel source must be fully publically pushed as per GPL requirements..
-- You must have proper resources (server/local machine) to build. It should always be your headache to arrange one. Team won't be providing any ci/jenkins.
-- Respect commit history of your sources and maintain proper authorships.
-- You must not be maintaining more than two OFFICIAL/UNOFFICIAL ROMs before applying to join Infinity-X
-- You must have released at least one functional UNOFFICIAL build before applying for OFFICIAL status.
+- [Apply Here](https://projectinfinity-x.com/apply-for-maintainership)
 
 ### Reach US
 
