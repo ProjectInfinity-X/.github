@@ -1,0 +1,39 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/390cc0d7-2261-4ed1-8a2b-aa68b584b62c" alt="Project Infinity X Logo" />
+</p>
+
+---
+
+<p align="center">
+  <b>Project Infinity X</b><br>
+  <em><strong>Unleashing Boundless Possibilities!</strong></em><br>
+  A feature-rich, customizable Android OS based on Android 16 (Baklava) for power users and enthusiasts.
+</p>
+
+---
+
+## Key Features
+
+- Vast system customization and theming
+- Smooth, responsive performance
+- Regular security and OTA updates
+- Community-driven enhancements
+- Focus on privacy and stability
+
+Project Infinity-X is currently running on **Android 16 (Baklava)**.  
+For more details, visit our website: [projectinfinity-x.com](https://projectinfinity-x.com/)
+
+## Getting Started
+
+- [Manifest Repository](https://github.com/projectinfinity-X/manifest)
+- [Supported Devices & Downloads](https://projectinfinity-x.com/downloads)
+
+## Apply for Device Maintainership
+
+Want to bring official support to your device?  
+👉 [Apply here](https://projectinfinity-x.com/apply-for-maintainership)
+
+## Connect With Us
+
+- [Telegram Announcements & Updates](https://t.me/ProjectInfinityX)
+- [Telegram Discussion Group](https://t.me/InfinityXGroup)
