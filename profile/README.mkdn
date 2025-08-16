@@ -1,22 +1,37 @@
-![Project Infinity X](https://raw.githubusercontent.com/ProjectInfinity-X/.github/main/profile/Infinity.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ProjectInfinity-X/.github/main/profile/Infinity.png" alt="Project Infinity X Logo"/>
+</p>
 
-Project Infinity X
-===========
-Unleashing Boundless Possibilities!
+<h1 align="center">✨ Project Infinity X ✨</h1>
+<p align="center"><em><strong>Unleashing Boundless Possibilities!</strong></em></p>
+<p align="center">A feature-rich, customizable Android OS based on <b>Android 16 (Baklava)</b> for power users and enthusiasts.</p>
 
-The Infinity-X Project introduces you to a world of endless customizations and useful Android features.
+---
 
-Project Infinity-X is currently running on Android 16 (Baklava). For more information visit our website - [projectinfinity-x.com](https://projectinfinity-x.com/).
+## 🚀 Key Features
 
-- [Manifest](https://github.com/projectinfinity-X/manifest)
+- 🎨 Vast system customization and theming  
+- ⚡ Smooth, responsive performance  
+- 🔒 Regular security & OTA updates  
+- 👥 Community-driven enhancements  
+- 🛡️ Focus on privacy and stability  
 
-### Apply for Maintainership
 
-Bring your device to OFFICIAL maintenance:
+## 📥 Getting Started
 
-- [Apply Here](https://projectinfinity-x.com/apply-for-maintainership)
+- 📦 [Manifest Repository](https://github.com/projectinfinity-X/manifest)  
+- 📱 [Supported Devices & Downloads](https://projectinfinity-x.com/downloads)  
 
-### Reach US
 
-- [Telegram Announcements/Device Updates](https://t.me/ProjectInfinityX)
-- [Telegram Discussion Group](https://t.me/InfinityXGroup)
+## 🛠️ Apply for Device Maintainership  
+
+Want to bring official support to your device?  
+👉 [Apply here](https://projectinfinity-x.com/apply-for-maintainership)
+
+
+## 🌐 Connect With Us
+
+- 📢 [Telegram Announcements & Updates](https://t.me/ProjectInfinityX)  
+- 💬 [Telegram Discussion Group](https://t.me/InfinityXGroup)  
+- 🌍 [Official Website](https://projectinfinity-x.com/)  
+
